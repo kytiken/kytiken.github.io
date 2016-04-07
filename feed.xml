@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ちけんのホームページ</title>
+    <description>作ったものなどを紹介します。
+</description>
+    <link>http://kytiken.github.io/</link>
+    <atom:link href="http://kytiken.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 07 Apr 2016 23:23:03 +0900</pubDate>
+    <lastBuildDate>Thu, 07 Apr 2016 23:23:03 +0900</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>ホームページを立ち上げました</title>
+        <description>&lt;p&gt;更新は不定期です。&lt;/p&gt;
+
+&lt;p&gt;よろしくお願いします。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Apr 2016 22:27:51 +0900</pubDate>
+        <link>http://kytiken.github.io/jekyll/update/2016/04/07/create-site.html</link>
+        <guid isPermaLink="true">http://kytiken.github.io/jekyll/update/2016/04/07/create-site.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
